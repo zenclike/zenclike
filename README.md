@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Zenic!
+🐧 Arch Linux x64 bits
+
+🧑‍💻 Working on Zen language version 008
+
+📈 11 subscribers
+
+📦 4 libraries in Zen
+
+💡 Fun fact: You can divide number by zero in Zen!
+
+📷 [Zenic Youtube](https://www.youtube.com/@zenclike)
 
 <!--
 **zenclike/zenclike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
